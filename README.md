@@ -1,4 +1,4 @@
- COMPANY-PROFILE
+                           MINCHTECH SOLUTION 
                                                                 
 MinchTech Solutions is a company that offers WIRELESS & FIBRE BROADBAND SERVICESS and ICT Solutions
 MISSION
