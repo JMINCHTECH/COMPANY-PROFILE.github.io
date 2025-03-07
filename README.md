@@ -1,12 +1,12 @@
-# COMPANY-PROFILE.github.io
+# COMPANY-PROFILE
                                                                 
  COMPANY PROFILE
 MINCHTECH SOLUTIONS
-MinchTech Solutions is a company that offers WIRELESS & FIBRE BROADBAND SERVICESS and ICT Solutions. 
-:MISSION
--Shape the future of the Internet by creating unprecedented value and opportunity for our customers, employees, investors, and ecosystem partners
+##MinchTech Solutions is a company that offers WIRELESS & FIBRE BROADBAND SERVICESS and ICT Solutions. 
+##:MISSION
+##-Shape the future of the Internet by creating unprecedented value and opportunity for our customers, employees, investors, and ecosystem partners
 ( provides assistance in education, economic, and social entrepreneurship..)
--To provide complete, quality Internet solutions to our clients by incorporating sensible and cost-effective technologies
+##-To provide complete, quality Internet solutions to our clients by incorporating sensible and cost-effective technologies
 
 :VISION
 customer-focused digital innovations that unlock their infinite potential.
